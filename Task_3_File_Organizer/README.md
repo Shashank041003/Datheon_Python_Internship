@@ -1,4 +1,4 @@
-# Automated File Organizer & Cleanup Utility
+# Automated File Organizer
 
 ## Project Overview
 The Automated File Organizer is a Python-based utility that helps users organize cluttered folders automatically.
