@@ -1,4 +1,5 @@
-Stock Portfolio Performance Tracker
+##Stock Portfolio Performance Tracker
+
 Project Overview
 The Stock Portfolio Performance Tracker is a Python-based application that helps users track their stock investments and calculate portfolio performance.
 
